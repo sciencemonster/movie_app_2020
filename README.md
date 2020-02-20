@@ -1,3 +1,7 @@
-# Movie App 2020
+# movie_app_2020 - React
 
-React JS Fundamentals Course (2020 Update!)
+React를 사용하고 ES6를 적용하여 영화정보앱을 만들었습니다.
+YTS API를 이용하여 영화다운로드 순위에 따른 영화정보를 가져왔습니다. axios를 이용하여 가져온 데이터를
+state에 붙였습니다. 데이터가 로딩되는 동안 로딩페이지를 따로 만들었습니다.
+랜더링이 완료되면 PropTypes를 사용하여 테스트한 후 React JS로 스타일링 하였습니다.
+제작 완료 후 git ph-pages로 호스팅하였습니다.
